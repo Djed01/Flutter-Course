@@ -38,6 +38,26 @@ class Expense {
     return formater.format(date);
   }
 
+   // Define the fromJson factory method to create an Expense object from a JSON Map
+  factory Expense.fromJson(Map<String, dynamic> json) {
+    return Expense(
+      title: json['title'],
+      amount: json['amount'],
+      date: DateTime.parse(json['date']),
+      category: Category.values[json['category']],
+    );
+  }
+
+  // Define the toJson method to convert an Expense object to a JSON Map
+  Map<String, dynamic> toJson() {
+    return {
+      'id': id,
+      'title': title,
+      'amount': amount,
+      'date': date.toIso8601String(),
+      'category': category.index,
+    };
+}
 }
 
 class ExpenseBucket{
