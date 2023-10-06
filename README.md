@@ -2,13 +2,13 @@
 ### This repository contains projects created on the <a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps" target="_blank"> Flutter & Dart - The Complete Guide </a> course by <a href="https://www.udemy.com/user/maximilian-schwarzmuller/"> Maximilian Schwarzmüller </a>
 
 
-##### First App: Dice Roller
+## First App: Dice Roller
 
 
 ![FirstAPP](https://github.com/Djed01/Flutter-Course/blob/main/Images/FirstApp.jpg)
 
 
-##### Shoping List
+## Shoping List
 
 
 ![ShopingApp](https://github.com/Djed01/Flutter-Course/blob/main/Images/GroceriesHome.jpg)
@@ -16,7 +16,7 @@
 ![ShoppingAdd](https://github.com/Djed01/Flutter-Course/blob/main/Images/GroceriesAdd.jpg)
 
 
-##### Quiz App
+## Quiz App
 
 
 ![QuizStart](https://github.com/Djed01/Flutter-Course/blob/main/Images/QuizStart.jpg)
@@ -27,19 +27,19 @@
 
 
 
-##### Expenses Tracker
+## Expenses Tracker
 
 
 ![ExpensesHome](https://github.com/Djed01/Flutter-Course/blob/main/Images/ExpensesTracker.jpg)
 
 ![ExpensesAdd](https://github.com/Djed01/Flutter-Course/blob/main/Images/ExpensesTrackerAdd.jpg)
 
-** Light Mode **
+**Light Mode**
 
 ![ExpensesLight](https://github.com/Djed01/Flutter-Course/blob/main/Images/ExpensesTrackerLightMode.jpg)
 
 
-##### Meals App
+## Meals App
 
 
 ![MealsHome](https://github.com/Djed01/Flutter-Course/blob/main/Images/MealsHome.jpg)
@@ -55,8 +55,8 @@
 ![MealsFavorites](https://github.com/Djed01/Flutter-Course/blob/main/Images/MealsFavorites.jpg)
 
 
-##### Favorite Places App
-** Ignore the image quality :) **
+## Favorite Places App
+**Ignore the image quality :)**
 
 
 ![FavoritePlacesHome](https://github.com/Djed01/Flutter-Course/blob/main/Images/FavoritePlacesHome.jpg)
@@ -66,7 +66,7 @@
 ![FavoritePlacesPreview](https://github.com/Djed01/Flutter-Course/blob/main/Images/FavoritesPlacesPreview.jpg)
 
 
-##### Chat App
+## Chat App
 
 ![ChatLogin](https://github.com/Djed01/Flutter-Course/blob/main/Images/CharLogin.jpg)
 
